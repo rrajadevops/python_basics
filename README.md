@@ -1,0 +1,1 @@
+This reporitories containes the python basic codes whic all about - list, dictinory, class, aruguments, inheritence and decorators
